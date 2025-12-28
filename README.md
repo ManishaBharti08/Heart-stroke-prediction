@@ -8,7 +8,7 @@
 - [Flask: ](https://flask.palletsprojects.com/en/3.0.x/tutorial/) Flask framework used
 - [Pandas: ](https://pandas.pydata.org/) Python data manipulation libraries
 - [Seaborn: ](https://seaborn.pydata.org/) Data visualisation library
-## Pipeline:
+## Pipeline/Notebook:
 ### 1. Stroke Final.ipynb
 This is the main file with all the preprocessing, visualisations, various Machine learning and Deep Learning Models.
 - Installing libraries and dependency
